@@ -1,0 +1,2 @@
+# kckzajecia
+moje pierwsze repo
